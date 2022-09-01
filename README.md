@@ -2,7 +2,7 @@
 didnot used any existing data sets
 Build a model using publicly data for national demand and supply factors that could influence US home Price.
 Used those factors to explain how these factors impacted home prices over the last 20 years.
-Used S&P Case Schiller Home Price Index as s proxy for home price
+Used S&P Case Schiller Home Price Index as a proxy for home price
 Population and Jobless rate were the factors that influence the Home Price the most
 
 
